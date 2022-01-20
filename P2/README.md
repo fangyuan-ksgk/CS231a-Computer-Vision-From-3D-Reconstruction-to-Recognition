@@ -5,3 +5,5 @@ Assignment 2:
 ![image](https://user-images.githubusercontent.com/66006349/150302663-84ee8e6d-6818-48a5-a496-685905f389e0.png)
 
 ![image](https://user-images.githubusercontent.com/66006349/150302707-97aaae42-5a8f-4ac4-adc9-1f01dc2854f4.png)
+
+Accuracy of the estimated Fundamental matrix can be evaluated by the average distance between points and their corresponding epipolar lines (in both images from two camera systems).
