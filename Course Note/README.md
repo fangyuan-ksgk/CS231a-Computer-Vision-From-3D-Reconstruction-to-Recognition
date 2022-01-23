@@ -1,1 +1,1 @@
-
+As in the case for every course note, this course note has errors and typos in it which can jeopardise your attemp for the assignment. The note I included are heavily noted/commented to ease the process to get to the truth. 
