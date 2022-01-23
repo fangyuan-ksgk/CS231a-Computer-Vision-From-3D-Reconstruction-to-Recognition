@@ -9,3 +9,11 @@ Assignment 2:
 ![image](https://user-images.githubusercontent.com/66006349/150302707-97aaae42-5a8f-4ac4-adc9-1f01dc2854f4.png)
 
 Accuracy of the estimated Fundamental matrix can be evaluated by the average distance between points and their corresponding epipolar lines (in both images from two camera systems).
+
+2. Image Rectification with matching homographies.
+
+![image](https://user-images.githubusercontent.com/66006349/150671052-1595f17a-17ea-4d55-9cd7-5ba6e0b79f6d.png)
+
+Rectified images pair are very useful for various maneuver including stereo and etc. Corresponding epipolar lines are horizontal and alinged in the two images from two camera.
+
+
