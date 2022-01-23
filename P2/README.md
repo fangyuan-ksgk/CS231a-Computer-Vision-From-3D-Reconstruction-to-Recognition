@@ -1,3 +1,5 @@
+I built all functions (including utils) in my own ways and include the solution & derivation in this folder.
+
 Assignment 2:
 
 1. Fundamental Matrix Estimation From Point Correspondences (8-point algorithm & normalized 8-point algorithm), fundamental matrix can be computed with 8 corresponding points from two images obtained by two different camera (intrinsic & extrinsic matrix differs). We can use Fundamental Matrix to plot the Epipolar lines on both images, which can be used for image rectification.
