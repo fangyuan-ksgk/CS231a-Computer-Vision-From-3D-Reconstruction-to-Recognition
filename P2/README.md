@@ -16,4 +16,17 @@ Accuracy of the estimated Fundamental matrix can be evaluated by the average dis
 
 Rectified images pair are very useful for various maneuver including stereo and etc. Corresponding epipolar lines are horizontal and alinged in the two images from two camera.
 
+3. Affine Structure from Motion (SFM) problem: factorization method (Kanade method).
+
+![image](https://user-images.githubusercontent.com/66006349/154840029-0300b8df-c3fa-461f-90ab-1f8e75291edc.png)
+
+From multiple views, retrieve the 3d structure under affine camera assumptions.
+
+4. General Structure From Motion problem with calibrated cameras:
+
+![image](https://user-images.githubusercontent.com/66006349/154840114-2a34133b-6087-4181-8cf2-2c2ce95c8fde.png)
+
+Given four images of a statue token from four calibrated cameras at different viewpoint, estimate the structure with bundle adjustment.
+
+
 
