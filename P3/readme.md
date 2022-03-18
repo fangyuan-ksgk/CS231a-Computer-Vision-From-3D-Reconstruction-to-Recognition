@@ -15,7 +15,7 @@ The insight is that by learning how to classify the rotation angle of these imag
 
 The authors claim that this network require less training iterations and fewer parameters. Although I am not sure if the pre-trained networks' training iterations are counted in. 
 
-What I verify is that such Encoder-Decoder model works pretty well for Monocular Depth Estimation problem, which happens to be enough for solving this 10 points-worth problem. (I must have spent 5 days if not more on this ....)
+What I verify is that such Encoder-Decoder model works pretty well for Monocular Depth Estimation problem, which happens to be enough for solving this 10 points-worth problem. (I must have spent 10 days if not more on this ....)
 
 ![image](https://user-images.githubusercontent.com/66006349/159074236-9838cb2f-f502-48a6-b119-4d179692b1a7.png)
 
