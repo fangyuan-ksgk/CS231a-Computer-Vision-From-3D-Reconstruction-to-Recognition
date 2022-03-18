@@ -11,5 +11,13 @@
 
 The insight is that by learning how to classify the rotation angle of these images of clothes, the embedding network 'learns' to capture the features useful also for the classification of the genre of these clothes.
 
+(p3) 3D reconstruction with Monocular View using Transfer Learning. Implementation of the paper: High Quality Monocular Depth Estimation via Transfer Learning by Ibraheem Alhashim and Peter Wonks, two researchers from KAUST, my PhD institution. The key idea is to use DenseNet's model setting which shows great performance for object classification, such DenseNet is adopted as an Encoder and a Decoder structure is proposed (rather simple in its form) to learn a monocular depth estimation problem. By using the pre-trained Encoder for classification tasks, trainig such model becomes a type of transfer learning. 
+
+The authors claim that this network require less training iterations and fewer parameters. Although I am not sure if the pre-trained networks' training iterations are counted in. 
+
+What I verify is that such Encoder-Decoder model works pretty well for Monocular Depth Estimation problem, which happens to be enough for solving this 10 points-worth problem. (I must have spent 5 days if not more on this ....)
+
+![image](https://user-images.githubusercontent.com/66006349/159074236-9838cb2f-f502-48a6-b119-4d179692b1a7.png)
+
 
 
